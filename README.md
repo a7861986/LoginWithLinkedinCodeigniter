@@ -25,5 +25,4 @@ Installation
 
 2.Download the Git repository in zip and copy and paste in your local server.
 
-Contributing
-------------
+
