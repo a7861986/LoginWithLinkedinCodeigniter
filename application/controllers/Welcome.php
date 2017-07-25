@@ -11,12 +11,10 @@ class Welcome extends CI_Controller {
 	public function index(){
 		
 		/*test credentials*/
-		$apiKey = '75wlixaxqq1x0s';
-		$apiSecret = 'ytEnXz8hPqhx46eg';
+		$apiKey = 'XXXXXX';
+		$apiSecret = 'XXXXXX';
 		
-		/*live credentials*/
-		//$apiKey = '86xwcqouzsgarq';
-		//$apiSecret = 'rd070mx7Vhy6MdXb';
+		
 
 
 		$redirectURL = 'http://localhost/linkedinlogin/';
